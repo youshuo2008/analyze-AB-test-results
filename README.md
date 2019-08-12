@@ -5,10 +5,10 @@ This project and README file were created on 08/10/2019.
 Analyzing A/B test results
 
 ### Project Description
-
+This project is part of my Udacity's Data Analyst Nanodegree. Analysis of A/B test results was conducted to see whether a new page layout would increase the conversion rate. 
 
 ### Files used
-The two csv files were provided by Udacity. 
+The two csv files were provided by Udacity.
 
 ### Credits
 Special thanks to my Udacity teachers:  
