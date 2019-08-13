@@ -11,4 +11,4 @@ This project is part of my Udacity's Data Analyst Nanodegree. Analysis of A/B te
 The two csv files were provided by Udacity.
 
 ### Credits
-Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V.
+Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V and George L.
