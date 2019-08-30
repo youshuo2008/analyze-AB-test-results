@@ -5,7 +5,9 @@ This project and README file were created on 08/10/2019.
 Analyzing A/B test results
 
 ### Project Description
-This project is part of my Udacity's Data Analyst Nanodegree. Analysis of A/B test results was conducted to see whether a new page layout would increase the conversion rate.
+This project is part of my Udacity's Data Analyst Nanodegree.
+An e-Commerce company developed a new web page to increase the number of users who pays for the company's product.
+The goal of this project is to perform A/B testing and help the company understand whether they should implement the new web page or keep the old page.  
 
 ### Files used
 The two csv files were provided by Udacity.
