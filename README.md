@@ -6,11 +6,12 @@ Analyzing A/B test results
 
 ### Project Description
 This project is part of my Udacity's Data Analyst Nanodegree.
-An e-Commerce company developed a new web page to increase the number of users who pays for the company's product.
-The goal of this project is to perform A/B testing and help the company understand whether they should implement the new web page or keep the old page.  
+
+The goal of the project is to perform A/B testing and help an e-Commerce company understand whether they should implement a new web page layout. I used both hypothesis testing and logistic regression to compare the conversion rate (proportion of users who paid for the company's product) between the new web page layout and the old page layout. Both approaches revealed similar answers.
+
 
 ### Files used
-The 'ab_data.csv' contains info of the A/B test results. 
+The 'ab_data.csv' contains info of the A/B test results.
 The 'countries.csv' records the country of origin for each user id.
 Both csv files were provided by Udacity.
 
