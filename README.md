@@ -7,7 +7,7 @@ Analyzing A/B test results
 ### Project Description
 This project is part of my Udacity's Data Analyst Nanodegree.
 
-The goal of the project is to perform A/B testing and help an e-Commerce company understand whether they should implement a new web page layout. I used both hypothesis testing and logistic regression to compare the conversion rate (proportion of users who paid for the company's product) between the new web page layout and the old page layout. Both approaches revealed similar answers.
+The goal of the project is to perform A/B testing and help an e-Commerce company understand whether they should implement a new web page layout. I used both hypothesis testing and logistic regression to compare conversion rates (proportion of users who paid for the company's product) between the new and old web page layout. Both approaches revealed similar answers.
 
 
 ### Files used
