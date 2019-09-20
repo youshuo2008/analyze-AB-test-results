@@ -11,9 +11,9 @@ The goal of the project is to perform A/B testing and help an e-Commerce company
 
 
 ### Files used
-The 'ab_data.csv' contains info of the A/B test results.
-The 'countries.csv' records the country of origin for each user id.
-Both csv files were provided by Udacity.
+The 'ab_data.csv' contains info of the A/B test results. <br />
+The 'countries.csv' records the country of origin for each user id. <br />
+Both csv files were provided by Udacity. <br />
 
 ### Credits
 Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V and George L as well as Udacity's project reviewers.
