@@ -2,7 +2,7 @@
 This project and README file were created on 08/10/2019.
 
 ### Project Title
-Analyzing A/B test results
+Analyzing A/B testing results
 
 ### Project Description
 This project is part of my Udacity's Data Analyst Nanodegree. <br />
